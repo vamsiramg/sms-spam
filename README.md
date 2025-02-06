@@ -2,7 +2,7 @@
 
 ## Discussion
 
-This project involves processing unstructured text data into numerical vectors and creating a classifier to detect whether an SMS message is spam or not. This is implemented making use of Natural Language Processing libraries in python. This model is developed using Google Colab, allowing for direct import of all necessary libraries and dependencies without manual installation. The `.py` file is attached to this repository.
+This project involves processing unstructured text data into numerical vectors and creating a classifier to detect whether an SMS message is spam or not. This is implemented making use of Natural Language Processing libraries in python. This model is developed using Google Colab, allowing for direct import of all necessary libraries and dependencies without manual installation. The `sms-spam.py` file is attached to this repository.
 
 **Note:** If running the notebook in Google Colab, it is advised to upload the dataset to the Files section before executing the code.
 
